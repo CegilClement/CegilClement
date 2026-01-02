@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Capgemini<br>👯 I’m looking to collaborate on Dev projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AI Agents<br>💬 Ask me about anything Spftware related<br>
+🔭 I’m currently working on Capgemini<br>👯 I’m looking to collaborate on Dev projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AI Agents<br>
 
 
 # 💻 Tech Stack:
